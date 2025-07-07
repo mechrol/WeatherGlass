@@ -1,1 +1,1 @@
-# WeatherGlass
+# weather-app
